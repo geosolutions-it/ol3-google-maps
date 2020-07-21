@@ -1,6 +1,6 @@
 {
   "name": "@geosolutions/olgm",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "description": "OpenLayers Google Maps integration library",
   "keywords": [
     "map",
